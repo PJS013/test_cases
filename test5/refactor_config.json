@@ -1,0 +1,13 @@
+{
+  "test_scripts": [
+    "tests/new_test.py",
+    "tests/new_test1.py",
+    "tests/new_test2.py",
+    "tests/new_test3.py"
+  ],
+  "page_objects": [
+  ],
+  "output_dir": "page_objects",
+  "generated_class": "MiscClass",
+  "similarity_threshold": 0.45
+}

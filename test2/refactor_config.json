@@ -1,0 +1,11 @@
+{
+  "test_scripts": [
+    "tests/test.py",
+    "tests/test1.py"
+  ],
+  "page_objects": [
+  ],
+  "output_dir": "page_objects",
+  "generated_class": "MiscClass",
+  "similarity_threshold": 0.45
+}
