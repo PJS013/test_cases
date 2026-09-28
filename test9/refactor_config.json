@@ -1,0 +1,15 @@
+{
+  "test_scripts": [
+    "tests/test1.py",
+    "tests/test2.py",
+    "tests/test3.py",
+    "tests/test4.py",
+    "tests/test5.py"
+  ],
+  "page_objects": [
+  ],
+  "output_dir": "page_objects",
+  "generated_class": "MiscClass",
+  "similarity_threshold": 0.45,
+  "min_method_len": 4
+}

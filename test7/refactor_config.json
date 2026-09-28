@@ -1,0 +1,16 @@
+{
+  "test_scripts": [
+    "tests/incorrect_credentials_test.py",
+    "tests/locked_out_test.py",
+    "tests/login_test.py",
+    "tests/logout_test.py",
+    "tests/order_test.py"
+  ],
+  "page_objects": [
+    "page_objects/LoginPage.py"
+  ],
+  "output_dir": "page_objects",
+  "generated_class": "MiscClass",
+  "similarity_threshold": 0.45,
+  "min_method_len": 2
+}

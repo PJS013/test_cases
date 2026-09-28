@@ -1,0 +1,11 @@
+{
+  "test_scripts": [
+    "tests/test.py"
+  ],
+  "page_objects": [
+    "page_objects/LoginPage.py"
+  ],
+  "output_dir": "page_objects",
+  "generated_class": "MiscClass",
+  "similarity_threshold": 0.45
+}
